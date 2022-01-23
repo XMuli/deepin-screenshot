@@ -22,6 +22,7 @@
 #include <QApplication>
 #include <QPainter>
 #include <QDebug>
+#include <QPainterPath>
 
 #include "src/utils/calculaterect.h"
 #include "src/utils/configsettings.h"
